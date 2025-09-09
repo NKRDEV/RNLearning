@@ -1,0 +1,240 @@
+{
+    "onboardingScreen": {
+        "title1": "Fascinated learning",
+        "title2": "Empower Your learning",
+        "title3": "Explore Your New Course",
+        "skip": "SKIP",
+        "next": "NEXT",
+        "login": "LOGIN",
+        "tapBack": "Tap back again to exit the App"
+    },
+    "loginScreen": {
+        "tapBack": "Tap back again to exit the App",
+        "welcomeBack": "Welcome back!",
+        "loginLearning": "Login to your existing account of e -learning",
+        "emailAddress": "Email Address",
+        "createPassword": "Create Password",
+        "forgotPassword": "Forgot password?",
+        "login": "Login",
+        "orConnectUsing": "Or connect using",
+        "donAccount": "Don’t have an account?",
+        "signUp": "Sign up"
+    },
+    "signUpScreen": {
+        "getStarted": "Let’s get started!",
+        "allFeatures": "Create an account to  e -learning to get all features",
+        "name": "Name",
+        "emailAddress": "Email Address",
+        "mobileNumber": "Mobile Number",
+        "createPassword": "Create Password",
+        "confirmPassword": "Confirm Password",
+        "signUp": "Sign up",
+        "alreadyAccount": "Already have an account?",
+        "loginNow": "Login now"
+    },
+    "otpVerificationScreen": {
+        "verification": "OTP Verification",
+        "pleaseEnter": "Please enter the verification code here we just sent you on",
+        "confirm": "Confirm",
+        "resend": "Resend",
+        "pleaseWait": "Please wait"
+    },
+    "layout": {
+        "home": "Home",
+        "search": "Search",
+        "courses": "Courses",
+        "wishlist": "Wishlist",
+        "profile": "Profile",
+        "tapBack": "Tap back again to exit the App"
+    },
+    "homeScreen": {
+        "hello": "Hello",
+        "goodMorning": "Good morning",
+        "learnBasics": "Learn from basics",
+        "fullDesigns": "Full Ui and UX designs",
+        "knowMore": "Know more",
+        "catergory": "Catergory",
+        "seeAll": "See all",
+        "recommended": "Recommended",
+        "popularCourse": "Popular course",
+        "featureCourse": "Feature course",
+        "review": "review"
+    },
+    "categoryScreen": {
+        "catergory": "Catergory"
+    },
+    "recommendedScreen": {
+        "review": "review"
+    },
+    "popularCourseScreen": {
+        "popularCourse": "Popular course"
+    },
+    "notificationScreen": {
+        "notification": "Notification",
+        "noNotificationYet": "No new notification",
+        "removed": "Notification Dismissed!.",
+        "today": "Today",
+        "yesterday": "Yesterday"
+    },
+    "detailScreen": {
+        "about": "About",
+        "video": "Video",
+        "review": "Review",
+        "removed": "Removed from wishlist",
+        "added": "Added to wishlist",
+        "lifetimeSubscription": "Lifetime subscription",
+        "subscribe": "Subscribe",
+        "paymentMethod": "Select your payment method"
+    },
+    "aboutTab": {
+        "courseBrief": "Course brief",
+        "totalTiming": "Total timing",
+        "totalVideo": "Total video",
+        "accessibility": "Accessibility",
+        "courseUploaded": "Course uploaded",
+        "description": "Description",
+        "createBy": "Create by",
+        "viewProfile": "View profile",
+        "subscribed": "Subscribed",
+        "courses": "courses",
+        "averageRating": "Average rating"
+    },
+    "reviewTab": {
+        "overallRating": "Overall rating",
+        "review": "review",
+        "star": "star",
+        "studentFeedback": "Student Feedback"
+    },
+    "creditCardScreen": {
+        "cardHolderName": "Card holder name",
+        "enterName": "Enter card holder name",
+        "cardNumber": "Card Number",
+        "enterNumber": "Enter card number",
+        "cVVCode": "CVV Code",
+        "paySecurely": "Pay securely"
+    },
+    "successScreen": {
+        "congratulation": "Congratulation!",
+        "successfully": "Your payment has been process successfully now you can learn your favorite course and make your bright future ",
+        "backHome": "Back to home"
+    },
+    "viewProfileScreen": {
+        "subscribed": "Subscribed",
+        "courses": "courses",
+        "averageRating": "Average rating",
+        "about": "About",
+        "course": "Course",
+        "review": "review",
+        "readMore": "Read more",
+        "readLess": "Read less",
+        "socialLink": "Social link"
+    },
+    "wishlistScreen": {
+        "wishlist": "Wishlist",
+        "emptyWishlist": "Empty Wishlist",
+        "itFeelLike": "It feel like nothing to save in your list.let’ s add someone",
+        "removed": "Removed from wishlist"
+    },
+    "videoDetailScreen": {
+        "removed": "Removed from wishlist",
+        "added": "Added to wishlist",
+        "courseIncluded": "Course Included",
+        "more": "More",
+        "courseDescription": "Course description",
+        "shareCourse": "Share this course",
+        "addWishlist": "Add to wishlist",
+        "download": "Download ",
+        "rateReview": " Rate and review this-- course",
+        "viewSimilarCourses": "View similar courses",
+        "similarCourse": "Similar course"
+    },
+    "qAndAScreen": {
+        "question": "Which tool You  have used in this video?",
+        "addNewQuestion": "Add new Question"
+    },
+    "downloadScreen": {
+        "download": "Download"
+    },
+    "rateAndReviewScreen": {
+        "rateReview": "Rate and review",
+        "whatRate": "What is your rate?",
+        "giveUs": "give us your feedback with rating,so we know if you like it ?",
+        "notNow": "Not now",
+        "writeReview": "Write your review",
+        "submit": "Submit"
+    },
+    "coursesScreen": {
+        "myCourses": "My Courses",
+        "ongoingCourse": "Ongoing Course",
+        "yourPurchaseCourses": "Your purchase courses",
+        "completed": "completed"
+    },
+    "searchScreen": {
+        "search": "Search",
+        "popularSearch": "Popular search",
+        "popularCourses": "Popular courses",
+        "reset": "Reset",
+        "categories": "Categories",
+        "price": "Price",
+        "level": "Level",
+        "filter": "Filter"
+    },
+    "profileScreen": {
+        "profile": "Profile",
+        "editProfile": "Edit profile",
+        "notification": "Notification",
+        "settings": "Settings",
+        "downloads": "Downloads",
+        "languages": "Languages",
+        "logout": "Logout",
+        "areYouSure": "Are you sure you want to logout?",
+        "cancel": "Cancel"
+    },
+    "editProfileScreen": {
+        "editProfile": "Edit profile",
+        "name": "Name",
+        "emailAddress": "Email Address",
+        "mobileNumber": "Mobile Number",
+        "dateBirth": "Date of birth",
+        "update": "Update",
+        "changeProfilePhoto": "Change profile photo",
+        "camera": "Camera",
+        "gallery": "Gallery",
+        "removeImage": "Remove image"
+    },
+    "notificationSettingsScreen": {
+        "notificationSettings": "Notification settings",
+        "appNotification": "App notification",
+        "recommendedClass": "Recommended class",
+        "promOption": "Prom option"
+    },
+    "languageScreen": {
+        "languages": "Languages"
+    },
+    "settingScreen": {
+        "settings": "Settings",
+        "changePassword": "Change password",
+        "termsCondition": "Terms and condition",
+        "help": "Help"
+    },
+    "termsAndConditionScreen": {
+        "termsAndCondition": "Terms and condition",
+        "conditionAttending": "Condition of attending",
+        "termUse": "Term of use"
+    },
+    "helpAndSupportScreen": {
+        "helpSupport": "Help and support",
+        "enterName": "Enter your Name",
+        "enterEmailId": "Enter your Email id",
+        "writeMessageHere": "Write your Message Here",
+        "send": "Send"
+    },
+    "changePasswordScreen": {
+        "changePassword": "Change password",
+        "currentPassword": "Current password",
+        "newPassword": "New password",
+        "repeatPassword": "Repeat new password",
+        "saveChange": "Save change"
+    }
+
+}

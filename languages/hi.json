@@ -1,0 +1,240 @@
+{
+    "onboardingScreen": {
+        "title1": "मोहित शिक्षा",
+        "title2": "अपने सीखने को सशक्त बनाएं",
+        "title3": "अपने नए पाठ्यक्रम का अन्वेषण करें",
+        "skip": "छोडना",
+        "next": "अगला",
+        "login": "लॉग इन करें",
+        "tapBack": "ऐप से बाहर निकलने के लिए फिर से टैप करें"
+    },
+    "loginScreen": {
+        "tapBack": "ऐप से बाहर निकलने के लिए फिर से टैप करें",
+        "welcomeBack": "वापसी पर स्वागत है!",
+        "loginLearning": "ई -लर्निंग के अपने मौजूदा खाते में लॉगिन करें",
+        "emailAddress": "मेल पता",
+        "createPassword": "पासवर्ड बनाएं",
+        "forgotPassword": "पासवर्ड भूल गए?",
+        "login": "लॉग इन करें",
+        "orConnectUsing": "या उपयोग करके कनेक्ट करें",
+        "donAccount": "क्या कोई खाता नहीं है?",
+        "signUp": "साइन अप करें"
+    },
+    "signUpScreen": {
+        "getStarted": "आएँ शुरू करें!",
+        "allFeatures": "सभी सुविधाओं को प्राप्त करने के लिए ई -लर्निंग के लिए एक खाता बनाएं",
+        "name": "नाम",
+        "emailAddress": "मेल पता",
+        "mobileNumber": "मोबाइल नंबर",
+        "createPassword": "पासवर्ड बनाएं",
+        "confirmPassword": "पासवर्ड की पुष्टि कीजिये",
+        "signUp": "साइन अप करें",
+        "alreadyAccount": "क्या आपके पास पहले से एक खाता मौजूद है?",
+        "loginNow": "अभी लॉगिन करें"
+    },
+    "otpVerificationScreen": {
+        "verification": "ओटीपी सत्यापन",
+        "pleaseEnter": "कृपया सत्यापन कोड दर्ज करें यहां हमने आपको भेजा है",
+        "confirm": "पुष्टि करना",
+        "resend": "पुन: भेजें",
+        "pleaseWait": "कृपया प्रतीक्षा करें"
+    },
+    "layout": {
+        "home": "घर",
+        "search": "खोज",
+        "courses": "पाठ्यक्रम",
+        "wishlist": "इच्छा-सूची",
+        "profile": "प्रोफ़ाइल",
+        "tapBack": "ऐप से बाहर निकलने के लिए फिर से टैप करें"
+    },
+    "homeScreen": {
+        "hello": "नमस्ते",
+        "goodMorning": "शुभ प्रभात",
+        "learnBasics": "मूल बातों से सीखें",
+        "fullDesigns": "पूर्ण यूआई और यूएक्स डिजाइन",
+        "knowMore": "अधिक जानते हैं",
+        "catergory": "वर्ग",
+        "seeAll": "सभी देखें",
+        "recommended": "अनुशंसित",
+        "popularCourse": "लोकप्रिय पाठ्यक्रम",
+        "featureCourse": "फ़ीचर कोर्स",
+        "review": "समीक्षा"
+    },
+    "categoryScreen": {
+        "catergory": "वर्ग"
+    },
+    "recommendedScreen": {
+        "review": "समीक्षा"
+    },
+    "popularCourseScreen": {
+        "popularCourse": "लोकप्रिय पाठ्यक्रम"
+    },
+    "notificationScreen": {
+        "notification": "अधिसूचना",
+        "noNotificationYet": "कोई नई अधिसूचना नहीं",
+        "removed": "अधिसूचना खारिज कर दी !।",
+        "today": "आज",
+        "yesterday": "कल"
+    },
+    "detailScreen": {
+        "about": "के बारे में",
+        "video": "वीडियो",
+        "review": "समीक्षा",
+        "removed": "विशलिस्ट से हटा दिया गया",
+        "added": "इच्छा सूची में जोड़ना",
+        "lifetimeSubscription": "आजीवन सदस्यता",
+        "subscribe": "सदस्यता लें",
+        "paymentMethod": "अपनी भुगतान विधि चुनें"
+    },
+    "aboutTab": {
+        "courseBrief": "संक्षेप में",
+        "totalTiming": "कुल समय",
+        "totalVideo": "कुल वीडियो",
+        "accessibility": "सरल उपयोग",
+        "courseUploaded": "कोर्स अपलोड किया गया",
+        "description": "विवरण",
+        "createBy": "द्वारा बनाएं",
+        "viewProfile": "प्रोफ़ाइल देखें",
+        "subscribed": "सदस्यता लिया",
+        "courses": "पाठ्यक्रम",
+        "averageRating": "औसत श्रेणी"
+    },
+    "reviewTab": {
+        "overallRating": "समग्र रेटिंग",
+        "review": "समीक्षा",
+        "star": "तारा",
+        "studentFeedback": "छात्र प्रतिक्रिया"
+    },
+    "creditCardScreen": {
+        "cardHolderName": "कार्डधारक का नाम",
+        "enterName": "कार्ड धारक का नाम दर्ज करें",
+        "cardNumber": "कार्ड संख्या",
+        "enterNumber": "कार्ड नंबर दर्ज करें",
+        "cVVCode": "सीवीवी कोड",
+        "paySecurely": "सुरक्षित रूप से भुगतान करें"
+    },
+    "successScreen": {
+        "congratulation": "बधाई!",
+        "successfully": "आपका भुगतान सफलतापूर्वक प्रक्रिया हो गई है अब आप अपने पसंदीदा पाठ्यक्रम को सीख सकते हैं और अपना उज्ज्वल भविष्य बना सकते हैं",
+        "backHome": "घर वापिस जा रहा हूँ"
+    },
+    "viewProfileScreen": {
+        "subscribed": "सदस्यता लिया",
+        "courses": "पाठ्यक्रम",
+        "averageRating": "औसत श्रेणी",
+        "about": "के बारे में",
+        "course": "अवधि",
+        "review": "समीक्षा",
+        "readMore": "और पढ़ें",
+        "readLess": "कम पढ़ें",
+        "socialLink": "सामाजिक लिंक"
+    },
+    "wishlistScreen": {
+        "wishlist": "इच्छा-सूची",
+        "emptyWishlist": "खाली विशलिस्ट",
+        "itFeelLike": "ऐसा लगता है कि आपकी सूची में सहेजने के लिए कुछ भी नहीं है। किसी को जोड़ें",
+        "removed": "विशलिस्ट से हटा दिया गया"
+    },
+    "videoDetailScreen": {
+        "removed": "विशलिस्ट से हटा दिया गया",
+        "added": "इच्छा सूची में जोड़ना",
+        "courseIncluded": "पाठ्यक्रम शामिल है",
+        "more": "अधिक",
+        "courseDescription": "पाठ्यक्रम विवरण",
+        "shareCourse": "इस पाठ्यक्रम को साझा करें",
+        "addWishlist": "इच्छा सूची में जोड़ें",
+        "download": "डाउनलोड करना",
+        "rateReview": "दर और समीक्षा करें- पाठ्यक्रम",
+        "viewSimilarCourses": "समान पाठ्यक्रम देखें",
+        "similarCourse": "समान पाठ्यक्रम"
+    },
+    "qAndAScreen": {
+        "question": "इस वीडियो में आपने कौन सा टूल उपयोग किया है?",
+        "addNewQuestion": "नया प्रश्न जोड़ें"
+    },
+    "downloadScreen": {
+        "download": "डाउनलोड करना"
+    },
+    "rateAndReviewScreen": {
+        "rateReview": "दर नियत करें और समीक्षा करें",
+        "whatRate": "आपकी दर क्या है?",
+        "giveUs": "रेटिंग के साथ हमें अपनी प्रतिक्रिया दें, इसलिए हम जानते हैं कि क्या आप इसे पसंद करते हैं?",
+        "notNow": "अभी नहीं",
+        "writeReview": "अपना आलेख लिखो",
+        "submit": "जमा करना"
+    },
+    "coursesScreen": {
+        "myCourses": "मेरे पाठ्यक्रम",
+        "ongoingCourse": "चल रहे पाठ्यक्रम",
+        "yourPurchaseCourses": "आपके खरीद पाठ्यक्रम",
+        "completed": "पुरा होना"
+    },
+    "searchScreen": {
+        "search": "खोज",
+        "popularSearch": "लोकप्रिय खोज",
+        "popularCourses": "लोकप्रिय पाठ्यक्रम",
+        "reset": "रीसेट",
+        "categories": "श्रेणियाँ",
+        "price": "कीमत",
+        "level": "स्तर",
+        "filter": "फ़िल्टर"
+    },
+    "profileScreen": {
+        "profile": "प्रोफ़ाइल",
+        "editProfile": "प्रोफ़ाइल संपादित करें",
+        "notification": "अधिसूचना",
+        "settings": "समायोजन",
+        "downloads": "डाउनलोड",
+        "languages": "बोली",
+        "logout": "लॉग आउट",
+        "areYouSure": "क्या आप लॉग आउट करना चाहते हैं?",
+        "cancel": "रद्द करना"
+    },
+    "editProfileScreen": {
+        "editProfile": "प्रोफ़ाइल संपादित करें",
+        "name": "नाम",
+        "emailAddress": "मेल पता",
+        "mobileNumber": "मोबाइल नंबर",
+        "dateBirth": "जन्म की तारीख",
+        "update": "अद्यतन",
+        "changeProfilePhoto": "प्रोफ़ाइल फोटो बदलें",
+        "camera": "कैमरा",
+        "gallery": "गैलरी",
+        "removeImage": "छवि निकालें"
+    },
+    "notificationSettingsScreen": {
+        "notificationSettings": "अधिसूचना सेटिंग्स",
+        "appNotification": "अनुप्रयोग अधसुचना",
+        "recommendedClass": "अनुशंसित वर्ग",
+        "promOption": "प्रोम विकल्प"
+    },
+    "languageScreen": {
+        "languages": "बोली"
+    },
+    "settingScreen": {
+        "settings": "समायोजन",
+        "changePassword": "पासवर्ड बदलें",
+        "termsCondition": "नियम व शर्तें",
+        "help": "मदद"
+    },
+    "termsAndConditionScreen": {
+        "termsAndCondition": "नियम व शर्तें",
+        "conditionAttending": "भाग लेने की शर्त",
+        "termUse": "उपयोग की शर्त"
+    },
+    "helpAndSupportScreen": {
+        "helpSupport": "सहायता और समर्थन",
+        "enterName": "अपना नाम दर्ज करें",
+        "enterEmailId": "अपना ईमेल आईडी दर्ज करें",
+        "writeMessageHere": "यहां अपना संदेश लिखें",
+        "send": "भेजना"
+    },
+    "changePasswordScreen": {
+        "changePassword": "पासवर्ड बदलें",
+        "currentPassword": "वर्तमान पासवर्ड",
+        "newPassword": "नया पासवर्ड",
+        "repeatPassword": "नया पासवर्ड दोहराएँ",
+        "saveChange": "परिवर्तन को संग्रहित करें"
+    }
+
+}

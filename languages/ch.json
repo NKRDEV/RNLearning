@@ -1,0 +1,240 @@
+{
+    "onboardingScreen": {
+        "title1": "着迷的学习",
+        "title2": "增强您的学习能力",
+        "title3": "探索您的新课程",
+        "skip": "跳过",
+        "next": "下一个",
+        "login": "登录",
+        "tapBack": "再次点击以退出应用程序"
+    },
+    "loginScreen": {
+        "tapBack": "再次点击以退出应用程序",
+        "welcomeBack": "欢迎回来！",
+        "loginLearning": "登录到您现有的E-学习帐户",
+        "emailAddress": "电子邮件地址",
+        "createPassword": "创建密码",
+        "forgotPassword": "忘记密码？",
+        "login": "登录",
+        "orConnectUsing": "或使用使用",
+        "donAccount": "没有帐户？",
+        "signUp": "报名"
+    },
+    "signUpScreen": {
+        "getStarted": "让我们开始吧！",
+        "allFeatures": "创建一个帐户到E-学习以获取所有功能",
+        "name": "姓名",
+        "emailAddress": "电子邮件地址",
+        "mobileNumber": "手机号码",
+        "createPassword": "创建密码",
+        "confirmPassword": "确认密码",
+        "signUp": "报名",
+        "alreadyAccount": "已经有一个帐户？",
+        "loginNow": "现在登录"
+    },
+    "otpVerificationScreen": {
+        "verification": "OTP验证",
+        "pleaseEnter": "请在此处输入验证代码，我们刚刚发送给您",
+        "confirm": "确认",
+        "resend": "重发",
+        "pleaseWait": "请稍等"
+    },
+    "layout": {
+        "home": "家",
+        "search": "搜索",
+        "courses": "培训班",
+        "wishlist": "愿望清单",
+        "profile": "轮廓",
+        "tapBack": "再次点击以退出应用程序"
+    },
+    "homeScreen": {
+        "hello": "你好",
+        "goodMorning": "早上好",
+        "learnBasics": "从基础上学习",
+        "fullDesigns": "完整的UI和UX设计",
+        "knowMore": "知道更多",
+        "catergory": "类别",
+        "seeAll": "查看全部",
+        "recommended": "受到推崇的",
+        "popularCourse": "流行课程",
+        "featureCourse": "功能课程",
+        "review": "审查"
+    },
+    "categoryScreen": {
+        "catergory": "类别"
+    },
+    "recommendedScreen": {
+        "review": "审查"
+    },
+    "popularCourseScreen": {
+        "popularCourse": "流行课程"
+    },
+    "notificationScreen": {
+        "notification": "通知",
+        "noNotificationYet": "没有新的通知",
+        "removed": "通知被驳回！",
+        "today": "今天",
+        "yesterday": "昨天"
+    },
+    "detailScreen": {
+        "about": "关于",
+        "video": "视频",
+        "review": "审查",
+        "removed": "从愿望清单中删除",
+        "added": "添加到愿望清单",
+        "lifetimeSubscription": "终身订阅",
+        "subscribe": "订阅",
+        "paymentMethod": "选择您的付款方式"
+    },
+    "aboutTab": {
+        "courseBrief": "课程简介",
+        "totalTiming": "总时机",
+        "totalVideo": "总视频",
+        "accessibility": "可访问性",
+        "courseUploaded": "课程上传",
+        "description": "描述",
+        "createBy": "创建",
+        "viewProfile": "查看资料",
+        "subscribed": "订阅",
+        "courses": "培训班",
+        "averageRating": "平均评分"
+    },
+    "reviewTab": {
+        "overallRating": "总体评分",
+        "review": "审查",
+        "star": "星星",
+        "studentFeedback": "学生反馈"
+    },
+    "creditCardScreen": {
+        "cardHolderName": "持卡人姓名",
+        "enterName": "输入卡持有人名称",
+        "cardNumber": "卡号",
+        "enterNumber": "输入卡号",
+        "cVVCode": "CVV代码",
+        "paySecurely": "安全付款"
+    },
+    "successScreen": {
+        "congratulation": "恭喜！",
+        "successfully": "现在，您的付款已经成功，现在您可以学习自己喜欢的课程并使您的光明未来",
+        "backHome": "回到家"
+    },
+    "viewProfileScreen": {
+        "subscribed": "订阅",
+        "courses": "培训班",
+        "averageRating": "平均评分",
+        "about": "关于",
+        "course": "课程",
+        "review": "审查",
+        "readMore": "阅读更多",
+        "readLess": "少阅读",
+        "socialLink": "社交链接"
+    },
+    "wishlistScreen": {
+        "wishlist": "愿望清单",
+        "emptyWishlist": "空的愿望清单",
+        "itFeelLike": "觉得没什么可以保存在您的列表中。",
+        "removed": "从愿望清单中删除"
+    },
+    "videoDetailScreen": {
+        "removed": "从愿望清单中删除",
+        "added": "添加到愿望清单",
+        "courseIncluded": "包括课程",
+        "more": "更多的",
+        "courseDescription": "课程描述",
+        "shareCourse": "分享本课程",
+        "addWishlist": "添加到愿望清单",
+        "download": "下载",
+        "rateReview": "对此进行评分并审查 - 课程",
+        "viewSimilarCourses": "查看类似的课程",
+        "similarCourse": "类似的课程"
+    },
+    "qAndAScreen": {
+        "question": "您在此视频中使用了哪种工具？",
+        "addNewQuestion": "添加新问题"
+    },
+    "downloadScreen": {
+        "download": "下载"
+    },
+    "rateAndReviewScreen": {
+        "rateReview": "打分和评论",
+        "whatRate": "您的价格是多少？",
+        "giveUs": "通过评分给我们您的反馈，所以我们知道您是否喜欢吗？",
+        "notNow": "现在不要",
+        "writeReview": "写您的评论",
+        "submit": "提交"
+    },
+    "coursesScreen": {
+        "myCourses": "我的课程",
+        "ongoingCourse": "正在进行的课程",
+        "yourPurchaseCourses": "您的购买课程",
+        "completed": "完全的"
+    },
+    "searchScreen": {
+        "search": "搜索",
+        "popularSearch": "流行搜索",
+        "popularCourses": "流行课程",
+        "reset": "重置",
+        "categories": "类别",
+        "price": "价格",
+        "level": "等级",
+        "filter": "筛选"
+    },
+    "profileScreen": {
+        "profile": "轮廓",
+        "editProfile": "编辑个人资料",
+        "notification": "通知",
+        "settings": "设置",
+        "downloads": "下载",
+        "languages": "语言",
+        "logout": "登出",
+        "areYouSure": "您确定要注销吗？",
+        "cancel": "取消"
+    },
+    "editProfileScreen": {
+        "editProfile": "编辑个人资料",
+        "name": "姓名",
+        "emailAddress": "电子邮件地址",
+        "mobileNumber": "手机号码",
+        "dateBirth": "出生日期",
+        "update": "更新",
+        "changeProfilePhoto": "更改个人资料照片",
+        "camera": "相机",
+        "gallery": "画廊",
+        "removeImage": "删除图像"
+    },
+    "notificationSettingsScreen": {
+        "notificationSettings": "通知设置",
+        "appNotification": "应用通知",
+        "recommendedClass": "推荐课",
+        "promOption": "舞会选项"
+    },
+    "languageScreen": {
+        "languages": "语言"
+    },
+    "settingScreen": {
+        "settings": "设置",
+        "changePassword": "更改密码",
+        "termsCondition": "附带条约",
+        "help": "帮助"
+    },
+    "termsAndConditionScreen": {
+        "termsAndCondition": "附带条约",
+        "conditionAttending": "参加的条件",
+        "termUse": "使用期限"
+    },
+    "helpAndSupportScreen": {
+        "helpSupport": "帮助和支持",
+        "enterName": "输入你的名字",
+        "enterEmailId": "输入您的电子邮件ID",
+        "writeMessageHere": "在这里写你的消息",
+        "send": "发送"
+    },
+    "changePasswordScreen": {
+        "changePassword": "更改密码",
+        "currentPassword": "当前密码",
+        "newPassword": "新密码",
+        "repeatPassword": "重复新密码",
+        "saveChange": "保存更改"
+    }
+
+}

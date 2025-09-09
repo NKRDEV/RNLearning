@@ -1,0 +1,240 @@
+{
+    "onboardingScreen": {
+        "title1": "Apprentissage fasciné",
+        "title2": "Renforcez votre apprentissage",
+        "title3": "Explorez votre nouveau cours",
+        "skip": "SAUTER",
+        "next": "SUIVANTE",
+        "login": "SE CONNECTER",
+        "tapBack": "Appuyez à nouveau en arrière pour quitter l'application"
+    },
+    "loginScreen": {
+        "tapBack": "Appuyez à nouveau en arrière pour quitter l'application",
+        "welcomeBack": "Content de te revoir!",
+        "loginLearning": "Connectez-vous à votre compte existant de E -Learning",
+        "emailAddress": "Adresse e-mail",
+        "createPassword": "Créer un mot de passe",
+        "forgotPassword": "Mot de passe oublié?",
+        "login": "Se connecter",
+        "orConnectUsing": "Ou connectez-vous en utilisant",
+        "donAccount": "Vous n'avez pas de compte?",
+        "signUp": "S'inscrire"
+    },
+    "signUpScreen": {
+        "getStarted": "Commençons!",
+        "allFeatures": "Créez un compte à E -Plearning pour obtenir toutes les fonctionnalités",
+        "name": "Nom",
+        "emailAddress": "Adresse e-mail",
+        "mobileNumber": "Numéro de portable",
+        "createPassword": "Créer un mot de passe",
+        "confirmPassword": "Confirmez le mot de passe",
+        "signUp": "S'inscrire",
+        "alreadyAccount": "Vous avez déjà un compte?",
+        "loginNow": "Connecte-toi maintenant"
+    },
+    "otpVerificationScreen": {
+        "verification": "Vérification OTP",
+        "pleaseEnter": "Veuillez saisir le code de vérification ici que nous venons de vous envoyer",
+        "confirm": "Confirmer",
+        "resend": "Revivre",
+        "pleaseWait": "S'il vous plaît, attendez"
+    },
+    "layout": {
+        "home": "Maison",
+        "search": "Recherche",
+        "courses": "Cours",
+        "wishlist": "Liste de souhaits",
+        "profile": "Profil",
+        "tapBack": "Appuyez à nouveau en arrière pour quitter l'application"
+    },
+    "homeScreen": {
+        "hello": "Bonjour",
+        "goodMorning": "Bonjour",
+        "learnBasics": "Apprenez des bases",
+        "fullDesigns": "Designs d'interface utilisateur complète et UX",
+        "knowMore": "Savoir plus",
+        "catergory": "Catégorie",
+        "seeAll": "Voir tout",
+        "recommended": "Recommandée",
+        "popularCourse": "Cours populaire",
+        "featureCourse": "Cours de fonctionnalité",
+        "review": "revoir"
+    },
+    "categoryScreen": {
+        "catergory": "Catégorie"
+    },
+    "recommendedScreen": {
+        "review": "revoir"
+    },
+    "popularCourseScreen": {
+        "popularCourse": "Cours populaire"
+    },
+    "notificationScreen": {
+        "notification": "notification",
+        "noNotificationYet": "Aucune nouvelle notification",
+        "removed": "Notification rejetée!.",
+        "today": "Aujourd'hui",
+        "yesterday": "Hier"
+    },
+    "detailScreen": {
+        "about": "À propos",
+        "video": "Vidéo",
+        "review": "Revoir",
+        "removed": "Supprimé de la liste de souhaits",
+        "added": "Ajouté à la liste de souhaits",
+        "lifetimeSubscription": "Abonnement à vie",
+        "subscribe": "S'abonner",
+        "paymentMethod": "Sélectionnez votre méthode de paiement"
+    },
+    "aboutTab": {
+        "courseBrief": "Mémoire de cours",
+        "totalTiming": "Timing total",
+        "totalVideo": "Vidéo totale",
+        "accessibility": "Accessibilité",
+        "courseUploaded": "Cours téléchargé",
+        "description": "description",
+        "createBy": "Crée par",
+        "viewProfile": "Voir le profil",
+        "subscribed": "Souscrite",
+        "courses": "cours",
+        "averageRating": "Note moyenne"
+    },
+    "reviewTab": {
+        "overallRating": "Note globale",
+        "review": "revoir",
+        "star": "étoile",
+        "studentFeedback": "Commentaires des étudiants"
+    },
+    "creditCardScreen": {
+        "cardHolderName": "Nom du titulaire",
+        "enterName": "Entrez le nom du titulaire de la carte",
+        "cardNumber": "Numéro de carte",
+        "enterNumber": "Entrez le numéro de carte",
+        "cVVCode": "Code CVV",
+        "paySecurely": "Payer en toute sécurité"
+    },
+    "successScreen": {
+        "congratulation": "Félicitations!",
+        "successfully": "Votre paiement a été un processus avec succès maintenant, vous pouvez apprendre votre cours préféré et faire votre avenir radieux",
+        "backHome": "De retour à la maison"
+    },
+    "viewProfileScreen": {
+        "subscribed": "Souscrite",
+        "courses": "cours",
+        "averageRating": "Note moyenne",
+        "about": "À propos",
+        "course": "Cours",
+        "review": "revoir",
+        "readMore": "En savoir plus",
+        "readLess": "Lire moins",
+        "socialLink": "Lien social"
+    },
+    "wishlistScreen": {
+        "wishlist": "Liste de souhaits",
+        "emptyWishlist": "Liste de souhaits vide",
+        "itFeelLike": "Cela ne ressemble à rien à enregistrer dans votre liste.",
+        "removed": "Supprimé de la liste de souhaits"
+    },
+    "videoDetailScreen": {
+        "removed": "Supprimé de la liste de souhaits",
+        "added": "Ajouté à la liste de souhaits",
+        "courseIncluded": "Cours inclus",
+        "more": "Plus",
+        "courseDescription": "Description du cours",
+        "shareCourse": "Partagez ce cours",
+        "addWishlist": "Ajouter à la liste de souhaits",
+        "download": "Télécharger",
+        "rateReview": "Évaluer et réviser ce - cours",
+        "viewSimilarCourses": "Voir des cours similaires",
+        "similarCourse": "Cours similaire"
+    },
+    "qAndAScreen": {
+        "question": "Quel outil avez-vous utilisé dans cette vidéo?",
+        "addNewQuestion": "Ajouter une nouvelle question"
+    },
+    "downloadScreen": {
+        "download": "Télécharger"
+    },
+    "rateAndReviewScreen": {
+        "rateReview": "Notez et évaluez",
+        "whatRate": "Quel est votre taux?",
+        "giveUs": "Donnez-nous vos commentaires avec la notation, donc nous savons si vous l'aimez?",
+        "notNow": "Pas maintenant",
+        "writeReview": "Donnez votre avis",
+        "submit": "Soumettre"
+    },
+    "coursesScreen": {
+        "myCourses": "Mes cours",
+        "ongoingCourse": "Cours en cours",
+        "yourPurchaseCourses": "Vos cours d'achat",
+        "completed": "complété"
+    },
+    "searchScreen": {
+        "search": "Recherche",
+        "popularSearch": "Recherche populaire",
+        "popularCourses": "Cours populaires",
+        "reset": "Réinitialiser",
+        "categories": "Catégories",
+        "price": "Prix",
+        "level": "Niveau",
+        "filter": "Filtre"
+    },
+    "profileScreen": {
+        "profile": "Profil",
+        "editProfile": "Editer le profil",
+        "notification": "notification",
+        "settings": "Paramètres",
+        "downloads": "Téléchargements",
+        "languages": "Langues",
+        "logout": "Se déconnecter",
+        "areYouSure": "Êtes-vous sûr de vouloir vous déconnecter?",
+        "cancel": "Annuler"
+    },
+    "editProfileScreen": {
+        "editProfile": "Editer le profil",
+        "name": "Nom",
+        "emailAddress": "Adresse e-mail",
+        "mobileNumber": "Numéro de portable",
+        "dateBirth": "Date de naissance",
+        "update": "Mise à jour",
+        "changeProfilePhoto": "Changer la photo du profil",
+        "camera": "Caméra",
+        "gallery": "Galerie",
+        "removeImage": "Supprimer l'image"
+    },
+    "notificationSettingsScreen": {
+        "notificationSettings": "Paramètres de notification",
+        "appNotification": "Notification d'application",
+        "recommendedClass": "Classe recommandée",
+        "promOption": "Option de bal"
+    },
+    "languageScreen": {
+        "languages": "Langues"
+    },
+    "settingScreen": {
+        "settings": "Paramètres",
+        "changePassword": "Changer le mot de passe",
+        "termsCondition": "Termes et conditions",
+        "help": "Aide"
+    },
+    "termsAndConditionScreen": {
+        "termsAndCondition": "Termes et conditions",
+        "conditionAttending": "Condition de participation",
+        "termUse": "Conditions d'utilisation"
+    },
+    "helpAndSupportScreen": {
+        "helpSupport": "Aide et soutien",
+        "enterName": "Entrez votre nom",
+        "enterEmailId": "Entrez votre identifiant de messagerie",
+        "writeMessageHere": "Ecrivez votre message ici",
+        "send": "Envoyer"
+    },
+    "changePasswordScreen": {
+        "changePassword": "Changer le mot de passe",
+        "currentPassword": "Mot de passe actuel",
+        "newPassword": "Nouveau mot de passe",
+        "repeatPassword": "Répété le nouveau mot de passe",
+        "saveChange": "Sauvegarder les modifications"
+    }
+
+}

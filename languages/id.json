@@ -1,0 +1,240 @@
+{
+    "onboardingScreen": {
+        "title1": "Pembelajaran yang terpesona",
+        "title2": "Memberdayakan pembelajaran Anda",
+        "title3": "Jelajahi Kursus Baru Anda",
+        "skip": "MELEWATI",
+        "next": "BERIKUTNYA",
+        "login": "GABUNG",
+        "tapBack": "Ketuk Kembali Lagi untuk Keluar dari Aplikasi"
+    },
+    "loginScreen": {
+        "tapBack": "Ketuk Kembali Lagi untuk Keluar dari Aplikasi",
+        "welcomeBack": "Selamat Datang kembali!",
+        "loginLearning": "Masuk ke akun E -learning Anda yang ada",
+        "emailAddress": "Alamat email",
+        "createPassword": "Buat Kata Sandi",
+        "forgotPassword": "Tidak ingat kata sandi?",
+        "login": "Gabung",
+        "orConnectUsing": "Atau hubungkan menggunakan",
+        "donAccount": "Tidak punya akun?",
+        "signUp": "Mendaftar"
+    },
+    "signUpScreen": {
+        "getStarted": "Mari kita mulai!",
+        "allFeatures": "Buat akun ke E -learning untuk mendapatkan semua fitur",
+        "name": "Nama",
+        "emailAddress": "Alamat email",
+        "mobileNumber": "Nomor handphone",
+        "createPassword": "Buat Kata Sandi",
+        "confirmPassword": "konfirmasi sandi",
+        "signUp": "Mendaftar",
+        "alreadyAccount": "Sudah memiliki akun?",
+        "loginNow": "Masuk sekarang"
+    },
+    "otpVerificationScreen": {
+        "verification": "Verifikasi OTP",
+        "pleaseEnter": "Harap masukkan kode verifikasi di sini kami baru saja mengirim Anda",
+        "confirm": "Mengonfirmasi",
+        "resend": "Ulang",
+        "pleaseWait": "Harap tunggu"
+    },
+    "layout": {
+        "home": "Rumah",
+        "search": "Mencari",
+        "courses": "Kursus",
+        "wishlist": "Daftar Keinginan",
+        "profile": "Profil",
+        "tapBack": "Ketuk Kembali Lagi untuk Keluar dari Aplikasi"
+    },
+    "homeScreen": {
+        "hello": "Halo",
+        "goodMorning": "Selamat pagi",
+        "learnBasics": "Belajar dari dasar -dasar",
+        "fullDesigns": "Desain UI dan UX penuh",
+        "knowMore": "Tahu lebih banyak",
+        "catergory": "Kategori",
+        "seeAll": "Lihat semua",
+        "recommended": "Direkomendasikan",
+        "popularCourse": "Kursus Populer",
+        "featureCourse": "Kursus fitur",
+        "review": "tinjauan"
+    },
+    "categoryScreen": {
+        "catergory": "Kategori"
+    },
+    "recommendedScreen": {
+        "review": "tinjauan"
+    },
+    "popularCourseScreen": {
+        "popularCourse": "Kursus Populer"
+    },
+    "notificationScreen": {
+        "notification": "Pemberitahuan",
+        "noNotificationYet": "Tidak ada pemberitahuan baru",
+        "removed": "Pemberitahuan diberhentikan!.",
+        "today": "Hari ini",
+        "yesterday": "Kemarin"
+    },
+    "detailScreen": {
+        "about": "Tentang",
+        "video": "video",
+        "review": "Tinjauan",
+        "removed": "Dihapus dari wishlist",
+        "added": "Ditambahkan ke wishlist",
+        "lifetimeSubscription": "Langganan seumur hidup",
+        "subscribe": "Langganan",
+        "paymentMethod": "Pilih metode pembayaran Anda"
+    },
+    "aboutTab": {
+        "courseBrief": "Singkat kursus",
+        "totalTiming": "Total waktu",
+        "totalVideo": "totalVideo",
+        "accessibility": "Aksesibilitas",
+        "courseUploaded": "Kursus diunggah",
+        "description": "Keterangan",
+        "createBy": "Dibuat oleh",
+        "viewProfile": "Tampilkan profil",
+        "subscribed": "Berlangganan",
+        "courses": "kursus",
+        "averageRating": "Penilaian rata-rata"
+    },
+    "reviewTab": {
+        "overallRating": "Peringkat keseluruhan",
+        "review": "tinjauan",
+        "star": "bintang",
+        "studentFeedback": "Umpan Balik Siswa"
+    },
+    "creditCardScreen": {
+        "cardHolderName": "Nama pemegang kartu",
+        "enterName": "Masukkan Nama Pemegang Kartu",
+        "cardNumber": "Nomor kartu",
+        "enterNumber": "Masukkan nomor kartu",
+        "cVVCode": "kode CVV",
+        "paySecurely": "Membayar dengan aman"
+    },
+    "successScreen": {
+        "congratulation": "Selamat!",
+        "successfully": "Pembayaran Anda telah berhasil proses sekarang Anda dapat mempelajari kursus favorit Anda dan membuat masa depan yang cerah",
+        "backHome": "Kembali ke rumah"
+    },
+    "viewProfileScreen": {
+        "subscribed": "Berlangganan",
+        "courses": "kursus",
+        "averageRating": "Penilaian rata-rata",
+        "about": "Tentang",
+        "course": "Kursus",
+        "review": "tinjauan",
+        "readMore": "Baca selengkapnya",
+        "readLess": "Baca lebih sedikit",
+        "socialLink": "Jaringan sosial"
+    },
+    "wishlistScreen": {
+        "wishlist": "Daftar Keinginan",
+        "emptyWishlist": "Daftar keinginan kosong",
+        "itFeelLike": "Rasanya tidak ada yang disimpan dalam daftar Anda. Mari kita tambahkan seseorang",
+        "removed": "Dihapus dari wishlist"
+    },
+    "videoDetailScreen": {
+        "removed": "Dihapus dari wishlist",
+        "added": "Ditambahkan ke wishlist",
+        "courseIncluded": "Termasuk kursus",
+        "more": "Lagi",
+        "courseDescription": "Deskripsi kursus",
+        "shareCourse": "Bagikan kursus ini",
+        "addWishlist": "Tambahkan ke Daftar Keinginan b Indonesia",
+        "download": "Unduh",
+        "rateReview": "Menilai dan meninjau ini-- kursus",
+        "viewSimilarCourses": "Lihat kursus serupa",
+        "similarCourse": "Kursus serupa"
+    },
+    "qAndAScreen": {
+        "question": "Alat mana yang telah Anda gunakan dalam video ini?",
+        "addNewQuestion": "Tambahkan pertanyaan baru"
+    },
+    "downloadScreen": {
+        "download": "Unduh"
+    },
+    "rateAndReviewScreen": {
+        "rateReview": "Nilai dan ulasan",
+        "whatRate": "Berapa tarif Anda?",
+        "giveUs": "Beri kami tanggapan Anda dengan peringkat, jadi kami tahu jika Anda menyukainya?",
+        "notNow": "Tidak sekarang",
+        "writeReview": "Tulis ulasan Anda",
+        "submit": "Kirim"
+    },
+    "coursesScreen": {
+        "myCourses": "Kursus saya",
+        "ongoingCourse": "Kursus yang sedang berlangsung",
+        "yourPurchaseCourses": "Kursus pembelian Anda",
+        "completed": "lengkap"
+    },
+    "searchScreen": {
+        "search": "Mencari",
+        "popularSearch": "Pencarian Populer",
+        "popularCourses": "Kursus populer",
+        "reset": "Mengatur ulang",
+        "categories": "Kategori",
+        "price": "Harga",
+        "level": "Tingkat",
+        "filter": "Saring"
+    },
+    "profileScreen": {
+        "profile": "Profil",
+        "editProfile": "Sunting profil",
+        "notification": "Pemberitahuan",
+        "settings": "Pengaturan",
+        "downloads": "Unduhan",
+        "languages": "Bahasa",
+        "logout": "Keluar",
+        "areYouSure": "Apakah Anda yakin ingin keluar?",
+        "cancel": "Membatalkan"
+    },
+    "editProfileScreen": {
+        "editProfile": "Sunting profil",
+        "name": "Nama",
+        "emailAddress": "Alamat email",
+        "mobileNumber": "Nomor handphone",
+        "dateBirth": "Tanggal lahir",
+        "update": "Memperbarui",
+        "changeProfilePhoto": "Ubah foto profil",
+        "camera": "Kamera",
+        "gallery": "Galeri",
+        "removeImage": "Hapus gambar"
+    },
+    "notificationSettingsScreen": {
+        "notificationSettings": "Pengaturan pemberitahuan",
+        "appNotification": "Notifikasi aplikasi",
+        "recommendedClass": "Kelas yang direkomendasikan",
+        "promOption": "Opsi prom"
+    },
+    "languageScreen": {
+        "languages": "Bahasa"
+    },
+    "settingScreen": {
+        "settings": "Pengaturan",
+        "changePassword": "Ganti kata sandi",
+        "termsCondition": "Syarat dan Kondisi",
+        "help": "Membantu"
+    },
+    "termsAndConditionScreen": {
+        "termsAndCondition": "Syarat dan Kondisi",
+        "conditionAttending": "Kondisi hadir",
+        "termUse": "Istilah penggunaan"
+    },
+    "helpAndSupportScreen": {
+        "helpSupport": "Bantuan dan dukungan",
+        "enterName": "Masukkan nama Anda",
+        "enterEmailId": "Masukkan ID Email Anda",
+        "writeMessageHere": "Tulis pesan Anda di sini",
+        "send": "Mengirim"
+    },
+    "changePasswordScreen": {
+        "changePassword": "Ganti kata sandi",
+        "currentPassword": "Kata sandi saat ini",
+        "newPassword": "Kata sandi baru",
+        "repeatPassword": "Ulangi kata sandi baru",
+        "saveChange": "Simpan perubahan"
+    }
+
+}

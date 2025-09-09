@@ -1,0 +1,240 @@
+{
+    "onboardingScreen": {
+        "title1": "التعلم المفتون",
+        "title2": "تمكين تعلمك",
+        "title3": "استكشف مسارك الجديد",
+        "skip": "يتخطى",
+        "next": "التالي",
+        "login": "تسجيل الدخول",
+        "tapBack": "اضغط مرة أخرى للخروج من التطبيق"
+    },
+    "loginScreen": {
+        "tapBack": "اضغط مرة أخرى للخروج من التطبيق",
+        "welcomeBack": "مرحبًا بعودتك!",
+        "loginLearning": "قم بتسجيل الدخول إلى حسابك الحالي لـ E -Learning",
+        "emailAddress": "عنوان البريد الإلكتروني",
+        "createPassword": "إنشاء كلمة المرور",
+        "forgotPassword": "هل نسيت كلمة السر؟",
+        "login": "تسجيل الدخول",
+        "orConnectUsing": "أو الاتصال باستخدام",
+        "donAccount": "ليس لديك حساب؟",
+        "signUp": "اشتراك"
+    },
+    "signUpScreen": {
+        "getStarted": "هيا بنا نبدأ!",
+        "allFeatures": "قم بإنشاء حساب لـ E -luding للحصول على جميع الميزات",
+        "name": "اسم",
+        "emailAddress": "عنوان البريد الإلكتروني",
+        "mobileNumber": "رقم الهاتف المحمول",
+        "createPassword": "إنشاء كلمة المرور",
+        "confirmPassword": "تأكيد كلمة المرور",
+        "signUp": "اشتراك",
+        "alreadyAccount": "هل لديك حساب؟",
+        "loginNow": "تسجيل الدخول الآن"
+    },
+    "otpVerificationScreen": {
+        "verification": "التحقق من OTP",
+        "pleaseEnter": "الرجاء إدخال رمز التحقق هنا الذي أرسلناه لك للتو",
+        "confirm": "يتأكد",
+        "resend": "إعادة إرسال",
+        "pleaseWait": "انتظر من فضلك"
+    },
+    "layout": {
+        "home": "بيت",
+        "search": "يبحث",
+        "courses": "الدورات",
+        "wishlist": "قائمة الرغبات",
+        "profile": "حساب تعريفي",
+        "tapBack": "اضغط مرة أخرى للخروج من التطبيق"
+    },
+    "homeScreen": {
+        "hello": "مرحبًا",
+        "goodMorning": "صباح الخير",
+        "learnBasics": "تعلم من الأساسيات",
+        "fullDesigns": "تصميمات واجهة المستخدم الكاملة و UX",
+        "knowMore": "تعرف أكثر",
+        "catergory": "فئة",
+        "seeAll": "اظهار الكل",
+        "recommended": "مُستَحسَن",
+        "popularCourse": "دورة شعبية",
+        "featureCourse": "ميزة الدورة",
+        "review": "مراجعة"
+    },
+    "categoryScreen": {
+        "catergory": "فئة"
+    },
+    "recommendedScreen": {
+        "review": "مراجعة"
+    },
+    "popularCourseScreen": {
+        "popularCourse": "دورة شعبية"
+    },
+    "notificationScreen": {
+        "notification": "إشعار",
+        "noNotificationYet": "لا يوجد إشعار جديد",
+        "removed": "تم رفض الإخطار!.",
+        "today": "اليوم",
+        "yesterday": "أمس"
+    },
+    "detailScreen": {
+        "about": "عن",
+        "video": "فيديو",
+        "review": "مراجعة",
+        "removed": "تمت إزالته من قائمة الأمنيات",
+        "added": "أضيف لقائمة الأماني",
+        "lifetimeSubscription": "اشتراك مدى الحياة",
+        "subscribe": "يشترك",
+        "paymentMethod": "إختر طريقة الدفع"
+    },
+    "aboutTab": {
+        "courseBrief": "موجز بالطبع",
+        "totalTiming": "التوقيت الكلي",
+        "totalVideo": "إجمالي الفيديو",
+        "accessibility": "إمكانية الوصول",
+        "courseUploaded": "تم تحميله بالطبع",
+        "description": "وصف",
+        "createBy": "تم اعداده بواسطة",
+        "viewProfile": "عرض الصفحة الشخصية",
+        "subscribed": "مشترك",
+        "courses": "الدورات",
+        "averageRating": "متوسط ​​تقييم"
+    },
+    "reviewTab": {
+        "overallRating": "تقييم عام",
+        "review": "مراجعة",
+        "star": "نجمة",
+        "studentFeedback": "ملاحظات الطالب"
+    },
+    "creditCardScreen": {
+        "cardHolderName": "إسم صاحب البطاقة",
+        "enterName": "أدخل اسم حامل البطاقة",
+        "cardNumber": "رقم البطاقة",
+        "enterNumber": "أدخل رقم البطاقة",
+        "cVVCode": "رقم الكود الموجود على بطاقات الاتمان",
+        "paySecurely": "ادفع بأمان"
+    },
+    "successScreen": {
+        "congratulation": "تهنئة!",
+        "successfully": "لقد تم عملية الدفع الخاصة بك بنجاح الآن ، يمكنك تعلم الدورة التدريبية المفضلة لديك وجعل مستقبلك المشرق",
+        "backHome": "العودة إلى المنزل"
+    },
+    "viewProfileScreen": {
+        "subscribed": "مشترك",
+        "courses": "الدورات",
+        "averageRating": "متوسط ​​تقييم",
+        "about": "عن",
+        "course": "دورة",
+        "review": "مراجعة",
+        "readMore": "اقرأ أكثر",
+        "readLess": "أقرأ أقل",
+        "socialLink": "الرابط الاجتماعي"
+    },
+    "wishlistScreen": {
+        "wishlist": "قائمة الرغبات",
+        "emptyWishlist": "قائمة أمنيات فارغة",
+        "itFeelLike": "لا يشعر أي شيء بحفظه في قائمتك. دعنا أضف شخصًا ما",
+        "removed": "تمت إزالته من قائمة الأمنيات"
+    },
+    "videoDetailScreen": {
+        "removed": "تمت إزالته من قائمة الأمنيات",
+        "added": "أضيف لقائمة الأماني",
+        "courseIncluded": "شملت المسار",
+        "more": "أكثر",
+        "courseDescription": "وصف الدورة التدريبية",
+        "shareCourse": "شارك هذه الدورة",
+        "addWishlist": "أضف إلى قائمة الامنيات",
+        "download": "تحميل",
+        "rateReview": "معدل ومراجعة هذا- الدورة التدريبية",
+        "viewSimilarCourses": "عرض دورات مماثلة",
+        "similarCourse": "مسار مماثل"
+    },
+    "qAndAScreen": {
+        "question": "ما هي الأداة التي استخدمتها في هذا الفيديو؟",
+        "addNewQuestion": "أضف سؤالًا جديدًا"
+    },
+    "downloadScreen": {
+        "download": "تحميل"
+    },
+    "rateAndReviewScreen": {
+        "rateReview": "معدل ومراجعة",
+        "whatRate": "ما هو معدلك؟",
+        "giveUs": "امنحنا ملاحظاتك مع التصنيف ، حتى نعرف ما إذا كنت ترغب في ذلك؟",
+        "notNow": "ليس الآن",
+        "writeReview": "اكتب مراجعتك",
+        "submit": "يُقدِّم"
+    },
+    "coursesScreen": {
+        "myCourses": "دوراتي",
+        "ongoingCourse": "مسار مستمر",
+        "yourPurchaseCourses": "دورات الشراء الخاصة بك",
+        "completed": "مكتمل"
+    },
+    "searchScreen": {
+        "search": "يبحث",
+        "popularSearch": "البحث الشعبي",
+        "popularCourses": "دورات شعبية",
+        "reset": "إعادة ضبط",
+        "categories": "فئات",
+        "price": "سعر",
+        "level": "مستوى",
+        "filter": "منقي"
+    },
+    "profileScreen": {
+        "profile": "حساب تعريفي",
+        "editProfile": "تعديل الملف الشخصي",
+        "notification": "إشعار",
+        "settings": "إعدادات",
+        "downloads": "التحميلات",
+        "languages": "اللغات",
+        "logout": "تسجيل خروج",
+        "areYouSure": "هل أنت متأكد أنك تريد تسجيل الخروج؟",
+        "cancel": "يلغي"
+    },
+    "editProfileScreen": {
+        "editProfile": "تعديل الملف الشخصي",
+        "name": "اسم",
+        "emailAddress": "عنوان البريد الإلكتروني",
+        "mobileNumber": "رقم الهاتف المحمول",
+        "dateBirth": "تاريخ الميلاد",
+        "update": "تحديث",
+        "changeProfilePhoto": "تغيير صورة الملف الشخصي",
+        "camera": "آلة تصوير",
+        "gallery": "صالة عرض",
+        "removeImage": "إزالة الصورة"
+    },
+    "notificationSettingsScreen": {
+        "notificationSettings": "إعدادات الإشعار",
+        "appNotification": "تنبيهات التطبيق",
+        "recommendedClass": "فئة موصى بها",
+        "promOption": "خيار حفلة موسيقية"
+    },
+    "languageScreen": {
+        "languages": "اللغات"
+    },
+    "settingScreen": {
+        "settings": "إعدادات",
+        "changePassword": "تغيير كلمة المرور",
+        "termsCondition": "أحكام وشروط",
+        "help": "يساعد"
+    },
+    "termsAndConditionScreen": {
+        "termsAndCondition": "أحكام وشروط",
+        "conditionAttending": "حالة الحضور",
+        "termUse": "مصطلح الاستخدام"
+    },
+    "helpAndSupportScreen": {
+        "helpSupport": "مساعدة و دعم",
+        "enterName": "أدخل أسمك",
+        "enterEmailId": "أدخل معرف البريد الإلكتروني الخاص بك",
+        "writeMessageHere": "اكتب رسالتك هنا",
+        "send": "يرسل"
+    },
+    "changePasswordScreen": {
+        "changePassword": "تغيير كلمة المرور",
+        "currentPassword": "كلمة السر الحالية",
+        "newPassword": "كلمة المرور الجديدة",
+        "repeatPassword": "كرر كلمة المرور الجديدة",
+        "saveChange": "حفظ التغيير"
+    }
+
+}

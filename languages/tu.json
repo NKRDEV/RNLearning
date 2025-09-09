@@ -1,0 +1,240 @@
+{
+    "onboardingScreen": {
+        "title1": "Büyüleyici Öğrenme",
+        "title2": "Öğrenmenizi güçlendirin",
+        "title3": "Yeni Kursunuzu Keşfedin",
+        "skip": "ATLAMAK",
+        "next": "SONRAKİ",
+        "login": "GİRİŞ YAPMAK",
+        "tapBack": "Uygulamadan çıkmak için tekrar tekrar dokunun"
+    },
+    "loginScreen": {
+        "tapBack": "Uygulamadan çıkmak için tekrar tekrar dokunun",
+        "welcomeBack": "Tekrar hoşgeldiniz!",
+        "loginLearning": "Mevcut e -öğrenme hesabınıza giriş yapın",
+        "emailAddress": "E -posta adresi",
+        "createPassword": "Şifre oluştur",
+        "forgotPassword": "Parolanızı mı unuttunuz?",
+        "login": "Giriş yapmak",
+        "orConnectUsing": "Veya kullanarak bağlan",
+        "donAccount": "Hesabınız yok mu?",
+        "signUp": "Üye olmak"
+    },
+    "signUpScreen": {
+        "getStarted": "Başlayalım!",
+        "allFeatures": "Tüm özellikleri elde etmek için e -öğrenmeye bir hesap oluşturun",
+        "name": "İsim",
+        "emailAddress": "E -posta adresi",
+        "mobileNumber": "Cep numarası",
+        "createPassword": "Şifre oluştur",
+        "confirmPassword": "Şifreyi Onayla",
+        "signUp": "Üye olmak",
+        "alreadyAccount": "Zaten hesabınız var mı?",
+        "loginNow": "Şimdi giriş yap"
+    },
+    "otpVerificationScreen": {
+        "verification": "OTP doğrulaması",
+        "pleaseEnter": "Lütfen buraya gönderdiğimiz doğrulama kodunu girin",
+        "confirm": "Onaylamak",
+        "resend": "Yeniden gönder",
+        "pleaseWait": "Lütfen bekleyin"
+    },
+    "layout": {
+        "home": "Ev",
+        "search": "Aramak",
+        "courses": "Dersler",
+        "wishlist": "İstek listesi",
+        "profile": "Profil",
+        "tapBack": "Uygulamadan çıkmak için tekrar tekrar dokunun"
+    },
+    "homeScreen": {
+        "hello": "Merhaba",
+        "goodMorning": "Günaydın",
+        "learnBasics": "Temel bilgilerden öğrenin",
+        "fullDesigns": "Tam kullanıcı arayüzü ve UX tasarımları",
+        "knowMore": "Daha Fazla Bilmek",
+        "catergory": "Kategori",
+        "seeAll": "Hepsini gör",
+        "recommended": "Tavsiye edilen",
+        "popularCourse": "Popüler Kurs",
+        "featureCourse": "Özellik kursu",
+        "review": "gözden geçirmek"
+    },
+    "categoryScreen": {
+        "catergory": "Kategori"
+    },
+    "recommendedScreen": {
+        "review": "gözden geçirmek"
+    },
+    "popularCourseScreen": {
+        "popularCourse": "Popüler Kurs"
+    },
+    "notificationScreen": {
+        "notification": "Bildiri",
+        "noNotificationYet": "Yeni bildirim yok",
+        "removed": "Bildirim görevden alındı!.",
+        "today": "Bugün",
+        "yesterday": "Dün"
+    },
+    "detailScreen": {
+        "about": "Hakkında",
+        "video": "video",
+        "review": "Gözden geçirmek",
+        "removed": "Wish List'ten kaldırıldı",
+        "added": "İstek listesine eklendi",
+        "lifetimeSubscription": "Ömür boyu abonelik",
+        "subscribe": "Abone",
+        "paymentMethod": "ödeme türünü seçiniz"
+    },
+    "aboutTab": {
+        "courseBrief": "Kurs brif",
+        "totalTiming": "Toplam zamanlama",
+        "totalVideo": "Toplam video",
+        "accessibility": "Ulaşılabilirlik",
+        "courseUploaded": "Kurs yüklendi",
+        "description": "Tanım",
+        "createBy": "Tarafından yaratıldı",
+        "viewProfile": "Profili Görüntüle",
+        "subscribed": "Abone olundu",
+        "courses": "dersler",
+        "averageRating": "Ortalama puanı"
+    },
+    "reviewTab": {
+        "overallRating": "Genel Değerlendirme",
+        "review": "gözden geçirmek",
+        "star": "yıldız",
+        "studentFeedback": "Öğrenci Geri Bildirimi"
+    },
+    "creditCardScreen": {
+        "cardHolderName": "Kart Sahibinin Adı",
+        "enterName": "Kart Sahibi Adını Girin",
+        "cardNumber": "Kart numarası",
+        "enterNumber": "Kart Numarası Girin",
+        "cVVCode": "CVV kodu",
+        "paySecurely": "Güvenli bir şekilde ödemek"
+    },
+    "successScreen": {
+        "congratulation": "Tebrik!",
+        "successfully": "Ödemeniz başarılı bir şekilde işlenmiştir Şimdi en sevdiğiniz kursu öğrenebilir ve parlak geleceğinizi yapabilirsiniz",
+        "backHome": "Eve geri dön"
+    },
+    "viewProfileScreen": {
+        "subscribed": "Abone olundu",
+        "courses": "dersler",
+        "averageRating": "Ortalama puanı",
+        "about": "Hakkında",
+        "course": "Kurs",
+        "review": "gözden geçirmek",
+        "readMore": "Devamını oku",
+        "readLess": "Az oku",
+        "socialLink": "Sosyal link"
+    },
+    "wishlistScreen": {
+        "wishlist": "İstek listesi",
+        "emptyWishlist": "Boş istek listesi",
+        "itFeelLike": "Listenize kaydedilecek hiçbir şey gibi hissetmez.",
+        "removed": "Wish List'ten kaldırıldı"
+    },
+    "videoDetailScreen": {
+        "removed": "Wish List'ten kaldırıldı",
+        "added": "İstek listesine eklendi",
+        "courseIncluded": "Kurs dahil",
+        "more": "Daha",
+        "courseDescription": "Ders Tanımı",
+        "shareCourse": "Bu kursu paylaş",
+        "addWishlist": "İstek listesine ekle",
+        "download": "İndirmek",
+        "rateReview": "Bunu derecelendirin ve inceleyin- kurs",
+        "viewSimilarCourses": "Benzer kursları görüntüleyin",
+        "similarCourse": "Benzer kurs"
+    },
+    "qAndAScreen": {
+        "question": "Bu videoda hangi aracı kullandınız?",
+        "addNewQuestion": "Yeni Soru Ekle"
+    },
+    "downloadScreen": {
+        "download": "İndirmek"
+    },
+    "rateAndReviewScreen": {
+        "rateReview": "Oran ve İnceleme",
+        "whatRate": "Oranınız nedir?",
+        "giveUs": "Bize derecelendirme ile geri bildiriminizi verin, bu yüzden beğenip beğenmediğinizi biliyoruz?",
+        "notNow": "Şimdi değil",
+        "writeReview": "İncelemenizi yazın",
+        "submit": "Göndermek"
+    },
+    "coursesScreen": {
+        "myCourses": "Kurslarım",
+        "ongoingCourse": "Devam eden kurs",
+        "yourPurchaseCourses": "Satın alma kurslarınız",
+        "completed": "tamamlanmış"
+    },
+    "searchScreen": {
+        "search": "Aramak",
+        "popularSearch": "Popüler arama",
+        "popularCourses": "Popüler Kurslar",
+        "reset": "Sıfırla",
+        "categories": "Kategoriler",
+        "price": "Fiyat",
+        "level": "Seviyesi",
+        "filter": "Filtre"
+    },
+    "profileScreen": {
+        "profile": "Profil",
+        "editProfile": "Profili Düzenle",
+        "notification": "Bildiri",
+        "settings": "Ayarlar",
+        "downloads": "İndirilenler",
+        "languages": "Diller",
+        "logout": "Çıkış Yap",
+        "areYouSure": "Oturum açmak istediğinden emin misiniz?",
+        "cancel": "İptal etmek"
+    },
+    "editProfileScreen": {
+        "editProfile": "Profili Düzenle",
+        "name": "İsim",
+        "emailAddress": "E -posta adresi",
+        "mobileNumber": "Cep numarası",
+        "dateBirth": "Doğum tarihi",
+        "update": "Güncelleme",
+        "changeProfilePhoto": "Profil fotoğrafını değiştir",
+        "camera": "Kamera",
+        "gallery": "Galeri",
+        "removeImage": "Resmi Kaldır"
+    },
+    "notificationSettingsScreen": {
+        "notificationSettings": "Bildirim ayarları",
+        "appNotification": "Uygulama bildirimi",
+        "recommendedClass": "Önerilen sınıf",
+        "promOption": "Balo seçeneği"
+    },
+    "languageScreen": {
+        "languages": "Diller"
+    },
+    "settingScreen": {
+        "settings": "Ayarlar",
+        "changePassword": "Şifre değiştir",
+        "termsCondition": "Şartlar ve koşullar",
+        "help": "Yardım"
+    },
+    "termsAndConditionScreen": {
+        "termsAndCondition": "Şartlar ve koşullar",
+        "conditionAttending": "Katılma koşulu",
+        "termUse": "Kullanım koşulu"
+    },
+    "helpAndSupportScreen": {
+        "helpSupport": "Yardım ve Destek",
+        "enterName": "Adınızı giriniz",
+        "enterEmailId": "E -posta Kimliğinizi Girin",
+        "writeMessageHere": "Mesajını buraya yaz",
+        "send": "Göndermek"
+    },
+    "changePasswordScreen": {
+        "changePassword": "Şifre değiştir",
+        "currentPassword": "Mevcut Şifre",
+        "newPassword": "Yeni Şifre",
+        "repeatPassword": "Yeni şifreyi tekrar girin",
+        "saveChange": "Değişikliği kaydet"
+    }
+
+}
