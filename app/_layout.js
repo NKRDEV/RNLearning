@@ -76,6 +76,7 @@ const MainNavigation = () => {
       <Stack.Screen name="termsAndCondition/termsAndConditionScreen" />
       <Stack.Screen name="helpAndSupport/helpAndSupportScreen" />
       <Stack.Screen name="changePassword/changePasswordScreen" />
+      <Stack.Screen name="vedio/vedioViewsScreen"/>
     </Stack>
   );
 };

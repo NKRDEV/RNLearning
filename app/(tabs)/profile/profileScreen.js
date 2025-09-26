@@ -95,7 +95,8 @@ const ProfileScreen = () => {
     {
       key: "4",
       title: tr("downloads"),
-      navigateTo: "download/downloadScreen",
+      // navigateTo: "download/downloadScreen",
+      navigateTo:"vedio/vedioViewsScreen",
       icon: Feather,
       iconName: "upload",
     },
