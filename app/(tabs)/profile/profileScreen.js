@@ -92,13 +92,19 @@ const ProfileScreen = () => {
       icon: Ionicons,
       iconName: "settings",
     },
-    {
+    // {
+    //   key: "4",
+    //   title: tr("downloads"),
+    //   navigateTo:"vedio/vedioViewsScreen",
+    //   icon: Feather,
+    //   iconName: "upload",
+    // },
+     {
       key: "4",
-      title: tr("downloads"),
-      // navigateTo: "download/downloadScreen",
+      title: tr("myvideos"),
       navigateTo:"vedio/vedioViewsScreen",
       icon: Feather,
-      iconName: "upload",
+      iconName: "video",
     },
     {
       key: "5",

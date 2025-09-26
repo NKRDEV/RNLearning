@@ -189,7 +189,7 @@
         "logout": "Logout",
         "areYouSure": "Are you sure you want to logout?",
         "cancel": "Cancel",
-        "yourvideos":"Your Videos"
+         "myvideos":"My Videos"
     },
     "editProfileScreen": {
         "editProfile": "Edit profile",
