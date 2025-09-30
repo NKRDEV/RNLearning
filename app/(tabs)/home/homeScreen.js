@@ -16,10 +16,13 @@ import { Colors, Default, Fonts } from "../../../constants/styles";
 import { LinearGradient } from "expo-linear-gradient";
 import { Octicons } from "@expo/vector-icons";
 import GradientStars from "../../../components/gradientStars";
+import * as data from '../../jsonData/homeUserData.json';
 
 const { width } = Dimensions.get("window");
 
+
 const HomeScreen = () => {
+   const user = data; 
   const navigation = useNavigation();
   const { t, i18n } = useTranslation();
 
@@ -44,9 +47,19 @@ const HomeScreen = () => {
           style={styles.userGradientImageStyle}
         >
           <Image
-            source={require("../../../assets/images/users/profile.png")}
+           source={
+            { uri: user.profilePic } 
+          }
             style={styles.userImageStyle}
           />
+          {/* <Image
+           source={
+            user?.profilePic
+            ? { uri: user.profilePic } // remote URL from JSON
+            : require("../../../assets/images/users/profile.png") 
+          }
+            style={styles.userImageStyle}
+          /> */}
         </LinearGradient>
 
         <View
@@ -56,9 +69,7 @@ const HomeScreen = () => {
             marginHorizontal: Default.fixPadding * 1.5,
           }}
         >
-          <Text numberOfLines={1} style={{ ...Fonts.Bold16black }}>{`${tr(
-            "hello"
-          )} Shriya`}</Text>
+          <Text>{`${tr("hello")} ${user?.name ?? "Guest"}`}</Text>
           <Text numberOfLines={1} style={{ ...Fonts.Regular14black }}>
             {tr("goodMorning")}
           </Text>
