@@ -145,6 +145,8 @@ export default function Layout() {
               return "heart";
             } else if (routeName === "profile/profileScreen") {
               return "user";
+            } else {
+              return "home"; // default icon name
             }
           };
 
@@ -159,6 +161,8 @@ export default function Layout() {
               return Ionicons;
             } else if (routeName === "profile/profileScreen") {
               return FontAwesome;
+            } else {
+              return Entypo; // default icon
             }
           };
 

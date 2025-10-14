@@ -16,13 +16,18 @@ import { Colors, Default, Fonts } from "../../../constants/styles";
 import { LinearGradient } from "expo-linear-gradient";
 import { Octicons } from "@expo/vector-icons";
 import GradientStars from "../../../components/gradientStars";
-import * as data from '../../jsonData/homeUserData.json';
+import homeUserData from '../../jsonData/homeUserData.json';
 
 const { width } = Dimensions.get("window");
 
 
+// Function to retrieve data from homeUserData.json
+const getHomeUserData = () => {
+  return homeUserData;
+};
+
 const HomeScreen = () => {
-   const user = data; 
+  const user = getHomeUserData();
   const navigation = useNavigation();
   const { t, i18n } = useTranslation();
 
