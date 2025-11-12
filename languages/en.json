@@ -189,7 +189,7 @@
         "logout": "Logout",
         "areYouSure": "Are you sure you want to logout?",
         "cancel": "Cancel",
-         "myvideos":"My Videos"
+         "myvideos":"Purchased Videos"
     },
     "editProfileScreen": {
         "editProfile": "Edit profile",
@@ -238,7 +238,7 @@
         "saveChange": "Save change"
     },
     "vedioViewsScreen":{
-        "myvideos":"My Videos"
+        "myvideos":"Purchased Videos"
     }
 
 }
