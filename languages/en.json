@@ -189,7 +189,8 @@
         "logout": "Logout",
         "areYouSure": "Are you sure you want to logout?",
         "cancel": "Cancel",
-         "myvideos":"Purchased Videos"
+         "myvideos":"Purchased Videos",
+         "wishlist":"Wishlist"
     },
     "editProfileScreen": {
         "editProfile": "Edit profile",

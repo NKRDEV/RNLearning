@@ -106,15 +106,22 @@ const ProfileScreen = () => {
       icon: Feather,
       iconName: "video",
     },
-    {
+     {
       key: "5",
+      title: tr("wishlist"),
+      navigateTo: "wishlist/wishlistScreen",
+      icon: Ionicons,
+      iconName: "heart",
+    },
+    {
+      key: "6",
       title: tr("languages"),
       navigateTo: "language/languageScreen",
       icon: FontAwesome5,
       iconName: "globe",
     },
     {
-      key: "6",
+      key: "7",
       title: tr("logout"),
       icon: MaterialIcons,
       iconName: "logout",
